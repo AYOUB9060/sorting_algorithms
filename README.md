@@ -33,5 +33,5 @@ The repository contains the following files:
 - **2-selection_sort.c:** Implementation of the Selection Sort algorithm.
 - **3-O:** Analysis of the time complexity of the Quick Sort algorithm (Lomuto partition scheme).
 - **3-quick_sort.c:** Implementation of the Quick Sort algorithm using the Lomuto partition scheme.
-- `deck.h:` Header file containing the declaration of the custom deck of cards data structure.
-- `sort.h:` Header file containing function prototypes for the sorting algorithms.
++ "deck.h:" Header file containing the declaration of the custom deck of cards data structure.
++ "sort.h:" Header file containing function prototypes for the sorting algorithms.
